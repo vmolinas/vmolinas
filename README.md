@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Puedes encontrarme en:
+
 - [Instagram](https://www.instagram.com/victormolinasg/)
+-->
+- [Mail](u.vmolinas@gmail.com)
