@@ -18,4 +18,4 @@ Puedes encontrarme en:
 
 - [Instagram](https://www.instagram.com/victormolinasg/)
 -->
-- [Mail](u.vmolinas@gmail.com)
+- [Mail](https://mail.google.com/mail/?authuser=0&ogbl)
