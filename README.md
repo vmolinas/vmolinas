@@ -18,5 +18,5 @@ Puedes encontrarme en:
 
 - [Instagram](https://www.instagram.com/victormolinasg/)
 -->
-- [Correo](u.vmolinas@gmail.com)
+- [Correo](mailto:u.vmolinas@gmail.com)
 - [Twitter](https://twitter.com/VictorMolinasG)
