@@ -20,3 +20,4 @@ Puedes encontrarme en:
 -->
 - [Correo](mailto:u.vmolinas@gmail.com)
 - [Twitter](https://twitter.com/VictorMolinasG)
+- [Linkedin](https://www.linkedin.com/in/victor-molinas-gonz%C3%A1lez-1214a0218/)
