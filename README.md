@@ -53,7 +53,7 @@ Si estás interesado en trabajar juntos o simplemente quieres hablar de un proye
 -->
 
 ### Mi nombre es Carlos Salvador 👋
-#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
+#### Desarrollador web junior full-stack, actualmente en **búsqueda activa** de empleo.
 
 
 
