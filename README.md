@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Puedes encontrarme en:
 
 - [Instagram](https://www.instagram.com/victormolinasg/)
--->
+
 - [Mail](mailto:u.vmolinas@gmail.com)
 
 - [Twitter](https://twitter.com/VictorMolinasG)
@@ -28,13 +28,13 @@ Puedes encontrarme en:
 -->
 ![Noemi Leon](https://github.com/noeleo25/my-web-resources/blob/master/logo-2020/full-color/SVG/horizontal-color.svg)
 
-## :wave: Hello!!  Thanks for visiting my github :blue_heart:
+## :wave: Hello!!  Thanks for visiting my github 👨‍🦱
 
 ### I'm currently working as Lead Software Developer.
 
 #### Main tech stack: 
 ##### Frontend
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" align="left" height="48" width="48" alt="JavaScript" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" align="left" height="48" width="48" alt="Java" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" align="left" height="48" width="48" alt="Vue.js" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" align="left" height="48" width="48" alt="Nuxt" >
 <br><br>
