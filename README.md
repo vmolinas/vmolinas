@@ -12,7 +12,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/victormolinasg/"
+    href="https://www.linkedin.com/in/victormolinasg"
     target="blank"
     ><img
       align="center"
