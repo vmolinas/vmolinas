@@ -52,6 +52,6 @@
 </p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vmolinas&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmolinas&layout=compact"
         alt="vmolinas" />
 </p>
