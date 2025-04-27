@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/vmolinasg/" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/victormolinasg/" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/victormolinasg" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="victormolinasg" height="30" width="40" />
-    </a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h1 align="center">Hola 👋, soy Victor</h1>
+<h3 align="center">Un desarrollador backend de Argentina con pasión por crear aplicaciones robustas y escalables.</h3>
+<br>
+
+<div align="center">
+
+## Estadísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vmolinas&locale=es_AR&theme=black-ice&currStreakNum=2FD3EB&fire=pink&sideLabels=FFF&date_format=dF[,Y])](https://git.io/streak-stats)
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vmolinas&show_icons=true&theme=dark&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vmolinas&layout=compact&show_icons=true&theme=dark&count_private=true)](https://git.io/streak-stats"/>
+
+</div>
+<br>
+
+<h3 align="center">Languajes y Herramientas:</h3>
+<p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" />
@@ -50,8 +52,18 @@
             width="40" height="40" />
     </a>
 </p>
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmolinas&layout=compact"
-        alt="vmolinas" />
+<br>
+
+<h3 align="center">Contacto:</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/vmolinasg/" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/victormolinasg/" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/victormolinasg" target="blank">
+        <img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="victormolinasg" height="30" width="40" />
+    </a>
 </p>
