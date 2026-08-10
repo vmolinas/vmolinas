@@ -11,16 +11,6 @@ Desarrollador backend de Argentina, enfocado en Java y Spring Boot. Construyo y 
 </p>
 </details>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vmolinas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/vmolinasg/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/vmolinasg">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-</p>
-
 <br>
 
 ## 📊 Stats
@@ -76,6 +66,10 @@ Desarrollador backend de Argentina, enfocado en Java y Spring Boot. Construyo y 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Apidog-F42B25?style=flat&logo=apidog&logoColor=white" alt="apidog" />
     <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white" alt="clickup" />
+</p>
+
+<p align="center">
+    <sub>Also comfortable with:</sub><br>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 </p>
 
@@ -85,9 +79,9 @@ Desarrollador backend de Argentina, enfocado en Java y Spring Boot. Construyo y 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vmolinasg/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="24" width="30" />
     </a>
-    <a href="https://twitter.com/vmolinasg" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    <a href="https://x.com/vmolinasg" target="_blank">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/x-twitter.svg" alt="x" height="24" width="30" />
     </a>
 </p>
